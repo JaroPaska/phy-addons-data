@@ -12,7 +12,6 @@
 { SSC Aero }
 { Premier }
 { Velocitá }
-{ Velocita }
 { Artifact }
 { Venomous }
 { Prestige }
