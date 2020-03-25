@@ -12,6 +12,7 @@
 { SSC Aero }
 { Premier }
 { Velocitá }
+{ Velocita }
 { Artifact }
 { Venomous }
 { Prestige }
@@ -33,4 +34,35 @@
 { Cien }
 { Forklift }
 { Indyana }
-{BRUH SHIPPING}
+{ Kitsune }
+{ Justice A }
+{ LeadOxide A }
+{ Kool Kat A }
+{ MIGHTY 8 }
+{ Kevlar }
+{ RPD Rhino }
+{ RPD Cross }
+{ RPD Charge }
+{ Way 2 Fast }
+{ Specialised }
+{ Apollo 1 }
+{ Storm }
+{ Inferno 66 }
+{ Tenacious }
+{ Gauntlet RT }
+{ Jagdzeit }
+{ Aviator }
+{ Everlast }
+{ Grim Reaper }
+{ Ice Bullet }
+{ Hip-E }
+{TwinMill III}
+{ Vyper 10 }
+{ Lucifer }
+{ Monstraa }
+{ Logger Head }
+{ LMP }
+{ Electro LMP }
+{ Stinger X3 }
+{ The Elite }
+{[SF]Morpheus}
