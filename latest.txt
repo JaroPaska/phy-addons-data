@@ -1,2 +1,2 @@
-Emerald
-https://bitbucket.org/Phyrexian/phy-addons-emerald/downloads/
+Amber
+https://bitbucket.org/Phyrexian/phy-addons-amber/downloads/
