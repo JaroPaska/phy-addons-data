@@ -74,3 +74,4 @@ dex09
 turbo
 prisoner
 scarce
+ToaZuka
