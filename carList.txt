@@ -69,4 +69,4 @@
 { DR Monstaa }
 { Radical One }
 { EL KING }
-{ Mighty Eight }
+{ MightyEight }
