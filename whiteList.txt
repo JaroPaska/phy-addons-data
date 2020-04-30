@@ -84,3 +84,4 @@ ràpid
 eximianic
 mirror
 skull
+Ràpid
