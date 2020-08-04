@@ -91,3 +91,4 @@ addict
 glow
 Viz
 keemstar
+Platinum
