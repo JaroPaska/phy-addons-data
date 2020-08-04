@@ -93,3 +93,4 @@ Viz
 keemstar
 Platinum
 Snorlax
+Veloce
