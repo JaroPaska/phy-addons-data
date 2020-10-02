@@ -74,7 +74,6 @@ dex09
 turbo
 prisoner
 scarce
-ToaZuka
 Evolutionary
 radical24
 galvanise
@@ -89,7 +88,6 @@ skryze
 sockz
 addict
 glow
-Viz
 keemstar
 Platinum
 Snorlax
@@ -110,5 +108,4 @@ VanZom
 Addict
 Cryy
 BlitzBreaker
-Dex09
 Viz
