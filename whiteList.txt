@@ -9,7 +9,6 @@ ip
 vanzom
 plat
 astronaut
-asterisk
 first
 toa
 glowmaster78
@@ -33,7 +32,6 @@ nightraider
 searchlight
 lilan
 ulti
-evolutionary
 nightmare83
 dexterity
 quote
@@ -121,3 +119,8 @@ Dust
 Resistance
 Demolition
 Sudowoodo
+
+Versa
+iloveannie
+Absence
+Asterisk
