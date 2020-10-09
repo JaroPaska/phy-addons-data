@@ -2,3 +2,6 @@
 tonco
 Supra
 theONE
+Dynamite
+Phase
+Essence
