@@ -1,7 +1,6 @@
 phy
 ultimato
 prayers
-Simplistic
 gare
 systemation
 maze
