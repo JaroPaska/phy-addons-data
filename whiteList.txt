@@ -120,7 +120,7 @@ iloveannie
 absence
 asterisk
 spark
-Volcanize
+volcanize
 slicer
 lua
-Agility
+agility
