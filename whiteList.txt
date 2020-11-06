@@ -123,3 +123,8 @@ volcanize
 slicer
 lua
 agility
+dream
+specter
+aspect
+aurora
+viix
