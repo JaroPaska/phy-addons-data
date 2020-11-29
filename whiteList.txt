@@ -128,3 +128,10 @@ specter
 aspect
 aurora
 viix
+Ares
+Electricity
+Presence
+Vigilance
+Lightor
+Spark
+Melmetal
