@@ -1,4 +1,4 @@
-{ Badlands }
+{ Training Grounds }
 { Permafrost Trap }
 { Enter Sandman }
 { Volcanic Island }
