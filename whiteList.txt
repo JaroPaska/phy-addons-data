@@ -40,6 +40,7 @@ mars505
 stuffs
 seebs97
 kyoto
+drifter24
 nextact
 prosafiagame
 guipetto
@@ -136,3 +137,4 @@ Lightor
 Spark
 Melmetal
 gaspar
+blaziken
