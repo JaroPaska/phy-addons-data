@@ -140,3 +140,4 @@ blaziken
 rápid
 Marill
 Resistance
+Rapid
