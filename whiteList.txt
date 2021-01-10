@@ -141,3 +141,4 @@ rápid
 Marill
 Resistance
 Rapid
+rz
