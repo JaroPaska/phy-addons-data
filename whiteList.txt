@@ -977,7 +977,6 @@ fuzzy
 fwib
 fyreson
 g6
-g8tr
 g@ylord
 gabipiri
 gabrieleacqu
