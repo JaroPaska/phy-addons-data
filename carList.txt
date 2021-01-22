@@ -70,3 +70,4 @@
 { Radical One }
 { EL KING }
 { MightyEight }
+{ Mightier 8 }
