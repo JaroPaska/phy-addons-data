@@ -71,3 +71,5 @@
 { EL KING }
 { MightyEight }
 { Mightier 8 }
+( Esperanza }
+{ Sesto }
