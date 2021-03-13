@@ -73,3 +73,7 @@
 { Mightier 8 }
 ( Esperanza }
 { Sesto }
+{ Rocket King }
+{ Rocket DrM }
+{ Rocket M8 }
+{ Rocket MASH }
