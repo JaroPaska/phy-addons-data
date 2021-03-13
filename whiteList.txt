@@ -3017,3 +3017,5 @@ zzzzz
 euron
 radical24
 Vision_Spire
+Plutonium
+Bowser
