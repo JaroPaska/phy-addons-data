@@ -5,11 +5,19 @@ stonecold()
 grounded(3125)
 road()
 
-tracks(7)
+tracks(13)
 
 <track>
 c(147,147,147)
 tz(2710)
+radx(930)
+rady(350)
+radz(930)
+</track>
+
+<track>
+c(147,147,147)
+tz(2290)
 radx(930)
 rady(350)
 radz(930)
@@ -25,7 +33,23 @@ radz(930)
 
 <track>
 c(147,147,147)
+tz(1405)
+radx(930)
+rady(350)
+radz(930)
+</track>
+
+<track>
+c(147,147,147)
 tz(940)
+radx(930)
+rady(350)
+radz(930)
+</track>
+
+<track>
+c(147,147,147)
+tz(470)
 radx(930)
 rady(350)
 radz(930)
@@ -40,6 +64,14 @@ radz(940)
 
 <track>
 c(147,147,147)
+tz(-470)
+radx(930)
+rady(350)
+radz(930)
+</track>
+
+<track>
+c(147,147,147)
 tz(-940)
 radx(930)
 rady(350)
@@ -48,7 +80,23 @@ radz(930)
 
 <track>
 c(147,147,147)
+tz(-1405)
+radx(930)
+rady(350)
+radz(930)
+</track>
+
+<track>
+c(147,147,147)
 tz(-1870)
+radx(930)
+rady(350)
+radz(930)
+</track>
+
+<track>
+c(147,147,147)
+tz(-2290)
 radx(930)
 rady(350)
 radz(930)
