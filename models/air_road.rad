@@ -12,6 +12,7 @@ c(147,147,147)
 radx(10)
 rady(5)
 radz(40)
+ty(-1)
 </track>
 
 <track>
@@ -20,6 +21,7 @@ radx(1)
 rady(5)
 radz(40)
 tx(11)
+ty(-1)
 </track>
 
 <track>
@@ -28,6 +30,7 @@ radx(1)
 rady(5)
 radz(40)
 tx(-11)
+ty(-1)
 </track>
 
 
