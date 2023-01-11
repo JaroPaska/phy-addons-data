@@ -9,7 +9,7 @@ tracks(7)
 
 <track>
 c(147,147,147)
-tz(2810)
+tz(2710)
 radx(930)
 rady(350)
 radz(930)
@@ -56,7 +56,7 @@ radz(930)
 
 <track>
 c(147,147,147)
-tz(-2810)
+tz(-2710)
 radx(930)
 rady(350)
 radz(930)
