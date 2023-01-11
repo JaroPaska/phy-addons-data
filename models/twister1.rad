@@ -11,6 +11,7 @@ tracks(7)
 c(147,147,147)
 tz(2710)
 radx(930)
+rady(350)
 radz(930)
 </track>
 
@@ -18,6 +19,7 @@ radz(930)
 c(147,147,147)
 tz(1870)
 radx(930)
+rady(350)
 radz(930)
 </track>
 
@@ -25,12 +27,14 @@ radz(930)
 c(147,147,147)
 tz(940)
 radx(930)
+rady(350)
 radz(930)
 </track>
 
 <track>
 c(147,147,147)
 radx(940)
+rady(350)
 radz(940)
 </track>
 
@@ -38,6 +42,7 @@ radz(940)
 c(147,147,147)
 tz(-940)
 radx(930)
+rady(350)
 radz(930)
 </track>
 
@@ -45,6 +50,7 @@ radz(930)
 c(147,147,147)
 tz(-1870)
 radx(930)
+rady(350)
 radz(930)
 </track>
 
@@ -52,9 +58,9 @@ radz(930)
 c(147,147,147)
 tz(-2710)
 radx(930)
+rady(350)
 radz(930)
 </track>
-
 
 <p>
 c(150,150,150)
