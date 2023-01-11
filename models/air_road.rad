@@ -2,7 +2,7 @@ div(700)
 disp(90)
 disline(4)
 stonecold()
-grounded(140)
+grounded(200)
 road()
 
 tracks(1)
