@@ -37,9 +37,10 @@ skid(2)
 
 <track>
 c(191,159,100)
-radx(12)
+radx(18)
 rady(5)
 radz(5)
+tx(0)
 tz(16)
 skid(2)
 </track>
