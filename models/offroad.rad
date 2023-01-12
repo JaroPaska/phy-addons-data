@@ -2,12 +2,12 @@ div(700)
 disp(90)
 disline(4)
 stonecold()
-grounded(3125)
+grounded(130)
 
 tracks(3)
 
 <track>
-c(0,0,0)
+c(217,188,128)
 radx(10)
 rady(5)
 radz(42)
