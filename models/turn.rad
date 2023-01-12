@@ -4,11 +4,11 @@ disline(4)
 stonecold()
 grounded(3125)
 
-tracks(2)
+tracks(4)
 
 <track>
 c(147,147,147)
-radx(10)
+radx(12)
 rady(5)
 radz(9)
 tz(-16)
@@ -18,9 +18,31 @@ tz(-16)
 c(147,147,147)
 radx(9)
 rady(5)
-radz(10)
+radz(12)
 tx(16)
 </track>
+
+div(35)
+
+<track>
+c(147,147,147)
+radx(9)
+rady(10)
+radz(15)
+tx(5)
+tz(1)
+</track>
+
+<track>
+c(147,147,147)
+radx(15)
+rady(10)
+radz(9)
+tx(-1)
+tz(-5)
+</track>
+
+div(70)
 
 <p>
 c(145,145,145)
