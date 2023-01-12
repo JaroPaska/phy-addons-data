@@ -2,7 +2,7 @@ div(700)
 disp(90)
 disline(4)
 stonecold()
-grounded(300)
+grounded(1000)
 
 tracks(3)
 
