@@ -3,6 +3,7 @@
 { Left In The Dust }
 { Permafrost Trap }
 { Prey's Vengeance }
+{ Survival of the Fittest }
 { Volcanic Island }
 { Training Grounds }
 { Wasteland }
@@ -15,7 +16,6 @@ Kickstarts
 Momentum Shift
 No Man's Land
 Radical Nightmare
-Survival of the Fittest
 Tundaria
 Twisted Scrapyard
 Vigor
