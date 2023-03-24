@@ -1,6 +1,7 @@
 { Brace for Impact }
 { Grave Upheaval }
 { Left In The Dust }
+{ No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
 { Survival of the Fittest }
@@ -14,7 +15,6 @@ Hidden Oasis
 Hostile Perimeter
 Kickstarts
 Momentum Shift
-No Man's Land
 Radical Nightmare
 Tundaria
 Twisted Scrapyard
