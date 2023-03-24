@@ -78,3 +78,4 @@
 { Rocket M8 }
 { Rocket MASH }
 { Apex Rider }
+[] Marauder
