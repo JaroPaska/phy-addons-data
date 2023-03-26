@@ -1,6 +1,8 @@
+{ Azarath }
 { Brace for Impact }
 { Grave Upheaval }
 { Left In The Dust }
+{ New Route Azarath }
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
