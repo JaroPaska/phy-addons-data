@@ -6,13 +6,13 @@
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
-{ Survival of the Fittest }
 { Volcanic Island }
 { Training Grounds }
 { Wasteland }
 Catch the ELO
 Fleeting Memories
 Golden Conundrum
+Grand Prix
 Hidden Oasis
 Hostile Perimeter
 Kickstarts
