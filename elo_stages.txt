@@ -1,8 +1,6 @@
-{ Azarath }
 { Brace for Impact }
 { Grave Upheaval }
 { Left In The Dust }
-{ New Route Azarath }
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
@@ -18,6 +16,9 @@ Hostile Perimeter
 Kickstarts
 Momentum Shift
 Radical Nightmare
+Reality Bender
+ Slipstream 
+Trail Blazer
 Tundaria
 Twisted Scrapyard
 Vigor
