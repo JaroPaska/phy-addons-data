@@ -1,24 +1,29 @@
+{ Abandoned Colosseum }
 { Brace for Impact }
 { Grave Upheaval }
 { Left In The Dust }
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
+{ Rocky Canyon }
 { Volcanic Island }
 { Training Grounds }
 { Wasteland }
+Bewildered Vertigo
 Catch the ELO
 Fleeting Memories
+Fireswept Plains
 Golden Conundrum
 Grand Prix
 Hidden Oasis
+Highride
 Hostile Perimeter
 Kickstarts
+Maelstrom
 Momentum Shift
 Radical Nightmare
 Reality Bender
  Slipstream 
-Trail Blazer
 Tundaria
 Twisted Scrapyard
 Vigor
