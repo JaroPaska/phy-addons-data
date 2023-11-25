@@ -10,12 +10,11 @@ tracks(1)
 radx(200)
 radz(2400)
 rady(550)
-tx(-100)
+tx(100)
 ty(0)
 tz(0)
 xy(90)
 zy(0)
-dam(167)
 skid(0)
 </track>
 
