@@ -78,3 +78,6 @@
 { Rocket M8 }
 { Rocket MASH }
 { Apex Rider }
+[] Marauder
+H-Metal S
+THE QUEEN
