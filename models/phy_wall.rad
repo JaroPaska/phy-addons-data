@@ -7,10 +7,10 @@ grounded(200)
 tracks(1)
 
 <track>
-radx(200)
+radx(175)
 radz(2400)
 rady(550)
-tx(100)
+tx(75)
 ty(0)
 tz(0)
 xy(90)
