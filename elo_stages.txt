@@ -26,7 +26,6 @@ Internal Combustion
 Kickstarts
 Maelstrom
 Momentum Shift
-No Man's Land
 Radical Nightmare
 Reality Bender
 Riot Coliseum
@@ -36,6 +35,7 @@ SIipstream
 Slipstream
 The Candlelit Mist Figures
 The Drop Zone
+Trophies
 Tundaria
 Twisted Magic
 Twisted Scrapyard
