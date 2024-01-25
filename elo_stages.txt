@@ -1,20 +1,24 @@
 { Abandoned Colosseum }
+{ Acid Reflux }
 { Brace for Impact }
+{ Crimson Crypt }
 { Grave Upheaval }
 { Left In The Dust }
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
 { Rocky Canyon }
-{ Volcanic Island }
+{ Trail Blazer }
 { Training Grounds }
+{ Volcanic Island }
 { Wasteland }
 Bewildered Vertigo
 Catch the ELO
-Fleeting Memories
 Fireswept Plains
+Fleeting Memories
 Golden Conundrum
 Grand Prix
+Grind  District
 Hidden Oasis
 Highride
 Hostile Perimeter
@@ -22,9 +26,17 @@ Internal Combustion
 Kickstarts
 Maelstrom
 Momentum Shift
+No Man's Land
 Radical Nightmare
 Reality Bender
+Riot Coliseum
+Sabotage Circuit
+Sandstorm Endeavour
 SIipstream
+Slipstream
+The Candlelit Mist Figures
+The Drop Zone
 Tundaria
+Twisted Magic
 Twisted Scrapyard
 Vigor
