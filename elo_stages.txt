@@ -16,9 +16,11 @@ Bewildered Vertigo
 Catch the ELO
 Fireswept Plains
 Fleeting Memories
+Frost Cavern
 Golden Conundrum
 Grand Prix
 Grind  District
+Helios
 Hidden Oasis
 Highride
 Hostile Perimeter
@@ -32,7 +34,6 @@ Riot Coliseum
 Sabotage Circuit
 Sandstorm Endeavour
 SIipstream
-Slipstream
 The Candlelit Mist Figures
 The Drop Zone
 Trophies
