@@ -2,11 +2,13 @@
 { Acid Reflux }
 { Brace for Impact }
 { Crimson Crypt }
+{ Escaping From War }
 { Grave Upheaval }
 { Left In The Dust }
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
+{ Rocket Race }
 { Rocky Canyon }
 { Trail Blazer }
 { Training Grounds }
@@ -31,6 +33,7 @@ Momentum Shift
 Radical Nightmare
 Reality Bender
 Riot Coliseum
+Postpartum
 Sabotage Circuit
 Sandstorm Endeavour
 Seafloor Surge
