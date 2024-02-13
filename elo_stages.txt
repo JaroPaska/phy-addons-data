@@ -10,6 +10,7 @@
 { Prey's Vengeance }
 { Rocket Race }
 { Rocky Canyon }
+{ Seafloor Surge }
 { Trail Blazer }
 { Training Grounds }
 { Volcanic Island }
@@ -36,7 +37,6 @@ Riot Coliseum
 Postpartum
 Sabotage Circuit
 Sandstorm Endeavour
-Seafloor Surge
 SIipstream
 The Candlelit Mist Figures
 The Drop Zone
