@@ -1,10 +1,10 @@
-{ Abandoned Colosseum }
 { Acid Reflux }
 { Brace for Impact }
 { Crimson Crypt }
 { Escaping From War }
 { Grave Upheaval }
 { Left In The Dust }
+{ The Murder Chamber }
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
@@ -33,6 +33,7 @@ Maelstrom
 Momentum Shift
 Nuclear Debris
 Radical Nightmare
+Radical Ruins
 Reality Bender
 Riot Coliseum
 Sabotage Circuit
