@@ -10,6 +10,7 @@
 { Rocket Race }
 { Rocky Canyon }
 { Seafloor Surge }
+{ The Elo Chamber }
 { Trail Blazer }
 { Training Grounds }
 { Volcanic Island }
@@ -40,7 +41,6 @@ Sandstorm Endeavour
 SIipstream
 The Candlelit Mist Figures
 The Drop Zone
-The Murder Chamber
 Trophies
 Tundaria
 Twisted Magic
