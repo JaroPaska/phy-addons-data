@@ -7,11 +7,9 @@
 { No Man's Land }
 { Permafrost Trap }
 { Prey's Vengeance }
-{ Rocket Race }
 { Rocky Canyon }
 { Seafloor Surge }
 { The Elo Chamber }
-{ Trail Blazer }
 { Training Grounds }
 { Volcanic Island }
 { Wasteland }
@@ -20,6 +18,7 @@ Catch the ELO
 Fireswept Plains
 Fleeting Memories
 Frost Cavern
+Gem Fusion
 Golden Conundrum
 Grand Prix
 Grind  District
@@ -35,10 +34,12 @@ Nuclear Debris
 Radical Nightmare
 Radical Ruins
 Reality Bender
+Retrogade
 Riot Coliseum
 Sabotage Circuit
 Sandstorm Endeavour
 SIipstream
+Starchaser
 The Candlelit Mist Figures
 The Drop Zone
 Trophies
