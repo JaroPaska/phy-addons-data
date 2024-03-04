@@ -15,6 +15,7 @@
 { Wasteland }
 Bewildered Vertigo
 Catch the ELO
+Covellite
 Fireswept Plains
 Fleeting Memories
 Frost Cavern
