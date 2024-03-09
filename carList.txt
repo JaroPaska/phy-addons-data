@@ -81,4 +81,5 @@
 {} Minotaur
 [] Marauder
 H-Metal S
+Ragnarok
 THE QUEEN
