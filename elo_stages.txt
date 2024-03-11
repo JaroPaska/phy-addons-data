@@ -1,7 +1,6 @@
 { Acid Reflux }
 { Brace for Impact }
 { Crimson Crypt }
-{ Escaping From War }
 { Grave Upheaval }
 { Left In The Dust }
 { No Man's Land }
@@ -14,11 +13,15 @@
 { Volcanic Island }
 { Wasteland }
 Bewildered Vertigo
+Blitz Boulevard
 Catch the ELO
 Covellite
+Crate Balls of Fire ELO
+Cybernetic Elimination
 Fireswept Plains
 Fleeting Memories
 Frost Cavern
+Gauntlet
 Gem Fusion
 Golden Conundrum
 Grand Prix
@@ -27,6 +30,7 @@ Helios
 Hidden Oasis
 Highride
 Hostile Perimeter
+Industrial Run
 Internal Combustion
 Kickstarts
 Maelstrom
