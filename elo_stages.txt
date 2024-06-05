@@ -12,6 +12,7 @@
 { Training Grounds }
 { Volcanic Island }
 { Wasteland }
+Atlantide
 Bewildered Vertigo
 Blitz Boulevard
 Catch the ELO
@@ -44,6 +45,7 @@ Riot Coliseum
 Sabotage Circuit
 Sandstorm Endeavour
 SIipstream
+Snowy Serenade
 Starchaser
 The Candlelit Mist Figures
 The Drop Zone
