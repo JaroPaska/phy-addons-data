@@ -12,6 +12,7 @@
 { Training Grounds }
 { Volcanic Island }
 { Wasteland }
+arroket
 Atlantide
 Bewildered Vertigo
 Blitz Boulevard
@@ -35,6 +36,7 @@ Industrial Run
 Internal Combustion
 Kickstarts
 Maelstrom
+Mindful State
 Momentum Shift
 Nuclear Debris
 Radical Nightmare
