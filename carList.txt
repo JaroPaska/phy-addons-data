@@ -80,6 +80,7 @@
 { Apex Rider }
 {} Minotaur
 [] Marauder
+Dr Reedsta
 H-Metal S
 Ragnarok
 THE QUEEN
