@@ -80,6 +80,7 @@
 { Apex Rider }
 {} Minotaur
 [] Marauder
+Dawgwheella
 Dr Reedsta
 H-Metal S
 Ragnarok
