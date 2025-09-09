@@ -79,6 +79,7 @@
 { Rocket MASH }
 { Apex Rider }
 {} Minotaur
+[] EL KING
 [] Formula 7
 [] MASHEEN
 [] Marauder
